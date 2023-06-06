@@ -1,5 +1,3 @@
 # git-test
 
 a
-
-bbb
